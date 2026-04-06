@@ -1,4 +1,5 @@
 const logger = require("../../../shared/logger");
+const UserRepository = require("../repositories/UserRepository");
 
 
 class AuthService{
@@ -36,3 +37,5 @@ class AuthService{
     };
     }
 }
+
+module.exports = new AuthService;
