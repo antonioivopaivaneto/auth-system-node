@@ -11,6 +11,7 @@ const loginLimiter = rateLimit({
 });
 
 router.post('/login', loginLimiter, AuthController.login);
+router.post('/register', AuthController.register);
 
 router.get('/ping', (req, res) => {
   res.json({ message: 'Auth module funcionando 🚀' });

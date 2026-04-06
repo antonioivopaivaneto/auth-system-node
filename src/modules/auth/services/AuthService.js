@@ -1,5 +1,8 @@
+const hash = require('../../../shared/utils/hash');
 const logger = require("../../../shared/logger");
 const UserRepository = require("../repositories/UserRepository");
+const jwt = require("../../../shared/utils/jwt");
+
 
 
 class AuthService{
