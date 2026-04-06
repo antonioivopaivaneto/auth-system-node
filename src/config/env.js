@@ -1,4 +1,4 @@
-require('dotend').config();
+require('dotenv').config();
 
 module.exports = {
   port: process.env.PORT ,
