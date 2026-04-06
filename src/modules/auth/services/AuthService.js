@@ -1,3 +1,4 @@
+const logger = require("../../../shared/logger");
 
 
 class AuthService{
@@ -19,11 +20,13 @@ class AuthService{
     async login(email, password){
         const user = await UserRepository.findByEmail(email);
         if(!user){
+            logger.warn(`Login falhou para email: ${email} - usuário não encontrado`);
             throw new Error('Usuário não encontrado');
         }
 
         const isPasswordValid = await hash.comparePassword(password, user.password);
         if(!isPasswordValid){
+            logger.warn(`Login falhou para email: ${email} - senha incorreta`);
             throw new Error('Senha incorreta');
         }
         const token = jwt.generateJWT({ userId: user.id });
