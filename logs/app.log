@@ -24,3 +24,34 @@
 {"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-06T23:48:55.533Z","url":"/api/auth/login"}
 {"level":"warn","message":"Login falhou para email: teste@teste.com - usuário não encontrado","timestamp":"2026-04-06T23:48:55.535Z"}
 {"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-06T23:48:56.178Z","url":"/api/auth/login"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-06T23:54:40.294Z","url":"/api/auth/login"}
+{"level":"warn","message":"Login falhou para email: teste@teste.com - usuário não encontrado","timestamp":"2026-04-06T23:54:40.307Z"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-06T23:55:15.822Z","url":"/api/auth/register"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-06T23:55:29.363Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-07T00:11:33.154Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-07T00:22:21.485Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-07T00:22:30.932Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-07T00:22:32.745Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-07T00:22:33.961Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-07T00:27:59.544Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:06:51.716Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:32:06.511Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:32:55.615Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:34:01.409Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:34:03.680Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:34:36.217Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"OPTIONS","timestamp":"2026-04-12T17:34:42.144Z","url":"/api/auth/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T17:39:53.048Z","url":"/api/auth/login"}
+{"level":"warn","message":"Login falhou para email: antonioivo.apiva@gmail.com - usuário não encontrado","timestamp":"2026-04-12T17:39:53.119Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T17:40:07.210Z","url":"/api/auth/login"}
+{"level":"warn","message":"Login falhou para email: antonioivo.apiva@gmail.com - usuário não encontrado","timestamp":"2026-04-12T17:40:07.212Z"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:21:55.244Z","url":"/api/auth/register"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:22:03.729Z","url":"/api/auth/login"}
+{"ip":"::1","level":"info","message":"Request received","method":"GET","timestamp":"2026-04-12T19:22:12.557Z","url":"/api/auth/ping"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:22:18.284Z","url":"/api/auth/login"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:24:30.977Z","url":"/api/auth/login"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:26:35.917Z","url":"/api/auth/login"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:26:46.134Z","url":"/api/auth/login"}
+{"level":"warn","message":"Login falhou para email: teste@teste.com - usuário não encontrado","timestamp":"2026-04-12T19:26:46.186Z"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:26:50.020Z","url":"/api/auth/register"}
+{"ip":"::1","level":"info","message":"Request received","method":"POST","timestamp":"2026-04-12T19:26:54.047Z","url":"/api/auth/login"}
